@@ -320,5 +320,5 @@ $
 
 ## Authors ##
 
-👤 **Jesse Kyambadde**
+👤 **Jesse Kyambadde**\
 👤 **Asubonteng Vincent**
